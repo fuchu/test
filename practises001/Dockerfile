@@ -1,1 +1,1 @@
-FROM microsoft/dotnet:onbuild
+FROM dockerhub.btcc.com/kevin/dotnet
