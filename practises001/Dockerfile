@@ -1,1 +1,1 @@
-FROM dockerhub.btcc.com/kevin/dotnet:latest
+FROM dockerhub.btcc.com/test/dotnet:latest
